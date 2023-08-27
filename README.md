@@ -9,7 +9,7 @@ This repository contains files related to data analytics using Python.
  **file2 -> README.md**
 
  **file3 -> final_dataset** :
-     ##  after performing preprocessing techniques then we get the resultant dataset and it is the final_dataset.
+       after performing preprocessing techniques then we get the resultant dataset and it is the final_dataset.
 
   **file4 -> preprocessing** :
  
